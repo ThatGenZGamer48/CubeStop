@@ -1,1 +1,1 @@
-# CubeTimer
+# CubeStop v1
